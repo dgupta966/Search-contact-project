@@ -10,6 +10,7 @@ export default function App() {
       <div className="main">
         <Main />
       </div>
+      <div style={{ color: "blue" }}>@deepakgupta</div>
     </div>
   );
 }
